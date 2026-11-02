@@ -1,0 +1,27 @@
+# Resume generator - initial setup
+
+Create a JD-specific resume PDF for Leena M. This stage contains contact details, a Professional Summary, Technical Skills, and Professional Experience rules. Experience content is generated only when explicitly requested.
+
+## Start here
+
+Paste a job description into the conversation, or replace the contents of `inputs/job-description.txt` with it. The only new input needed for a generation run is the current JD; saved candidate facts come from `profile.json`.
+
+The assistant will use `resume-rules.md` and `templates/resume-template.md` to draft each in-scope section, then create a PDF when asked to generate. Each run starts from the saved profile and that JD, without using earlier generated resumes.
+
+## Files
+
+- `profile.json`: contact details, user-provided background, and confirmed technical experience.
+- `resume-rules.md`: scope, tailoring rules, Technical Skills selection, factual limits, and PDF checks.
+- `templates/resume-template.md`: contact, Professional Summary, Technical Skills, and Professional Experience structure.
+- `inputs/job-description.txt`: optional place to save the current JD.
+- `AGENTS.md`: instructions for assistants working in this folder.
+
+## Current status
+
+Generation is currently assistant-guided using these profile, template, and workflow files. PDFs are saved under `output/pdf/YYYY-MM-DD/`. For each new run, supply the current JD and ask the assistant to generate the resume.
+
+Summaries follow the quality standard in `resume-rules.md`: one paragraph, normally 90-120 words, prioritizing supported candidate strengths relevant to the JD's actual professional function.
+
+Technical Skills are generated independently for each JD: exact named tools first, dependency and similar tools, foundation languages, and engineering practices. The profile records JD-named tools as user-reported; similar-only tools are not stored as a global stack. Employers, credentials, dates, and per-tool tenure are not inferred from a JD.
+
+Professional Experience is generated only on an explicit execute request. STAR bullets descend Truist, PointClickCare, Union Bank, Scanet. Education is the locked UNT Master's block. ATS readability and recruiter relevance are design goals, not guarantees of screening results or interviews.

@@ -1,0 +1,108 @@
+﻿{
+  "contact": {
+    "name": "Leena M",
+    "email": "leenakrishna94@gmail.com",
+    "phone": "+1 (972) 776-4448",
+    "location": "Texas, US"
+  },
+  "background": {
+    "source": "User-provided personal details",
+    "evidence_status": "User-reported; not independently verified",
+    "professional_title": "Senior Consultant",
+    "experience_years_minimum": 9,
+    "experience_display": "9+ years",
+    "target_domain": "General consulting",
+    "confirmed_themes": [
+      "Consulting and business problem solving",
+      "Stakeholder engagement and delivery support",
+      "Continuous learning and professional growth"
+    ],
+    "confirmed_technologies": [],
+    "confirmed_activities": [],
+    "confirmed_methods": [],
+    "confirmation_sources": [
+      {
+        "source": "User-provided personal details",
+        "statement": "Leena M, Texas, US | +1 (972) 776-4448 | leenakrishna94@gmail.com | Master's in Cybersecurity | Saint Louis University | May 2026 | 9+ years experience",
+        "scope": "Personal contact details, education, and domain interests"
+      }
+    ],
+    "confirmed_domains": [],
+    "confirmed_project_examples": [],
+    "confirmed_achievements": [],
+    "employment": [
+      {
+        "employer": "Elevance Health",
+        "title": "Senior Consultant",
+        "start": "June 2026",
+        "end": "Present",
+        "domain": "General consulting",
+        "source": "User-provided professional experience",
+        "evidence_status": "User-reported; not independently verified",
+        "notes": "Role and dates recorded exactly as provided by the user."
+      },
+      {
+        "employer": "Optum",
+        "title": "Senior Software Consultant",
+        "start": "October 2024",
+        "end": "June 2026",
+        "domain": "General consulting",
+        "source": "User-provided professional experience",
+        "evidence_status": "User-reported; not independently verified",
+        "notes": "Role and dates recorded exactly as provided by the user."
+      },
+      {
+        "employer": "LatentView",
+        "title": "Consultant",
+        "start": "June 2022",
+        "end": "August 2024",
+        "domain": "General consulting",
+        "source": "User-provided professional experience",
+        "evidence_status": "User-reported; not independently verified",
+        "notes": "Role and dates recorded exactly as provided by the user."
+      },
+      {
+        "employer": "Reylon Softech",
+        "title": "Consultant",
+        "start": "December 2019",
+        "end": "June 2022",
+        "domain": "General consulting",
+        "source": "User-provided professional experience",
+        "evidence_status": "User-reported; not independently verified",
+        "notes": "Role and dates recorded exactly as provided by the user."
+      },
+      {
+        "employer": "Thrymr Software",
+        "title": "Consultant",
+        "start": "July 2017",
+        "end": "December 2019",
+        "domain": "General consulting",
+        "source": "User-provided professional experience",
+        "evidence_status": "User-reported; not independently verified",
+        "notes": "Role and dates recorded exactly as provided by the user."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Saint Louis University",
+        "degree": "Master's in Cybersecurity",
+        "graduation": "May 2026",
+        "source": "User-provided personal details",
+        "evidence_status": "User-reported; not independently verified",
+        "notes": "Education recorded exactly as provided by the user."
+      }
+    ]
+  },
+  "candidate_input_policy": {
+    "submitted_jd_duties_and_named_tools_are_user_asserted_experience": true,
+    "scope": "JDs the user submits for their own resume generation",
+    "related_tools": "JD-named tools are user-asserted. Closely related tools for the same job purpose may appear in Technical Skills under resume-rules.md; do not persist similar-only names into confirmed_technologies",
+    "limits": "Do not infer past employment with the hiring company, degrees, certifications, quantified achievements, exact dates, or years with individual technologies from a JD"
+  },
+  "resume_preferences": {
+    "sections": ["Contact Details", "Professional Summary", "Technical Skills", "Professional Experience", "Education"],
+    "divider_below_contact_details": true,
+    "output_format": "pdf",
+    "independent_generation_per_job_description": true
+  }
+}
