@@ -7,11 +7,11 @@ Texas, US | +1 (972) 776-4448 | leenakrishna94@gmail.com
 - Saint Louis University | May 2026
 
 ## Experience
-- 9+ years
+- 8+ years
 
 ## Professional Experience
 - Elevance Health | Senior Consultant | February 2026–Present
-- Optum | Senior Software Consultant | October 2024–February 2026
+- Optum | Senior Consultant | October 2024–February 2026
 - LatentView | Consultant | June 2022–August 2024
 - Reylon Softech | Consultant | June 2018–June 2022
 

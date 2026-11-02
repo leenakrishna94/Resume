@@ -30,7 +30,7 @@ February 2026–Present
 
 {{elevance_health_responsibilities}}
 
-**Senior Software Consultant | Optum**
+**Senior Consultant | Optum**
 
 October 2024–February 2026
 
@@ -64,7 +64,7 @@ June 2022–August 2024
 
 **Consultant | Reylon Softech**
 
-June 2018–June 2022 | Approximately 4 years
+June 2018–June 2022
 
 **Project:** {{reylon_softech_project_name}}
 

@@ -9,8 +9,8 @@
     "source": "User-provided personal details",
     "evidence_status": "User-reported; not independently verified",
     "professional_title": "Senior Consultant",
-    "experience_years_minimum": 9,
-    "experience_display": "9+ years",
+    "experience_years_minimum": 8,
+    "experience_display": "8+ years",
     "target_domain": "General consulting",
     "confirmed_themes": [
       "Consulting and business problem solving",
@@ -23,7 +23,7 @@
     "confirmation_sources": [
       {
         "source": "User-provided personal details",
-        "statement": "Leena M, Texas, US | +1 (972) 776-4448 | leenakrishna94@gmail.com | Master's in Cybersecurity | Saint Louis University | May 2026 | 9+ years experience",
+        "statement": "Leena M, Texas, US | +1 (972) 776-4448 | leenakrishna94@gmail.com | Master's in Cybersecurity | Saint Louis University | May 2026 | 8+ years experience",
         "scope": "Personal contact details, education, and domain interests"
       }
     ],
@@ -43,7 +43,7 @@
       },
       {
         "employer": "Optum",
-        "title": "Senior Software Consultant",
+        "title": "Senior Consultant",
         "start": "October 2024",
         "end": "February 2026",
         "domain": "General consulting",
