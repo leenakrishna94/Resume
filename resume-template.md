@@ -14,69 +14,69 @@ Texas, US | +1 (972) 776-4448 | leenakrishna94@gmail.com
 
 ## Professional Experience
 
-**Senior Software Consultant | Truist Financial Corporation**
+**Senior Consultant | Elevance Health**
 
-August 2024 - Present
+February 2026–Present
 
-**Project:** {{truist_project_name}}
+**Project:** {{elevance_health_project_name}}
 
-**Business Context:** {{truist_business_context}}
+**Business Context:** {{elevance_health_business_context}}
 
-**Project Solution:** {{truist_project_solution}}
+**Project Solution:** {{elevance_health_project_solution}}
 
-**Technology Environment:** {{truist_technology_environment}}
-
-**Responsibilities:**
-
-{{truist_responsibilities}}
-
-**Software Consultant | PointClickCare**
-
-October 2022 - August 2024
-
-**Project:** {{pcc_project_name}}
-
-**Business Context:** {{pcc_business_context}}
-
-**Project Solution:** {{pcc_project_solution}}
-
-**Technology Environment:** {{pcc_technology_environment}}
+**Technology Environment:** {{elevance_health_technology_environment}}
 
 **Responsibilities:**
 
-{{pcc_responsibilities}}
+{{elevance_health_responsibilities}}
 
-**Software Consultant | Union Bank of India**
+**Senior Software Consultant | Optum**
 
-December 2019 - June 2022
+October 2024–February 2026
 
-**Project:** {{ubi_project_name}}
+**Project:** {{optum_project_name}}
 
-**Business Context:** {{ubi_business_context}}
+**Business Context:** {{optum_business_context}}
 
-**Project Solution:** {{ubi_project_solution}}
+**Project Solution:** {{optum_project_solution}}
 
-**Technology Environment:** {{ubi_technology_environment}}
-
-**Responsibilities:**
-
-{{ubi_responsibilities}}
-
-**Software Consultant | Scanet Trading PVT. LTD**
-
-June 2016 - November 2019
-
-**Project:** {{scanet_project_name}}
-
-**Business Context:** {{scanet_business_context}}
-
-**Project Solution:** {{scanet_project_solution}}
-
-**Technology Environment:** {{scanet_technology_environment}}
+**Technology Environment:** {{optum_technology_environment}}
 
 **Responsibilities:**
 
-{{scanet_responsibilities}}
+{{optum_responsibilities}}
+
+**Consultant | LatentView**
+
+June 2022–August 2024
+
+**Project:** {{latentview_project_name}}
+
+**Business Context:** {{latentview_business_context}}
+
+**Project Solution:** {{latentview_project_solution}}
+
+**Technology Environment:** {{latentview_technology_environment}}
+
+**Responsibilities:**
+
+{{latentview_responsibilities}}
+
+**Consultant | Reylon Softech**
+
+June 2018–June 2022 | Approximately 4 years
+
+**Project:** {{reylon_softech_project_name}}
+
+**Business Context:** {{reylon_softech_business_context}}
+
+**Project Solution:** {{reylon_softech_project_solution}}
+
+**Technology Environment:** {{reylon_softech_technology_environment}}
+
+**Responsibilities:**
+
+{{reylon_softech_responsibilities}}
 
 ## Education
 
