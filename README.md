@@ -24,4 +24,4 @@ Summaries follow the quality standard in `resume-rules.md`: one paragraph, norma
 
 Technical Skills are generated independently for each JD: exact named tools first, dependency and similar tools, foundation languages, and engineering practices. The profile records JD-named tools as user-reported; similar-only tools are not stored as a global stack. Employers, credentials, dates, and per-tool tenure are not inferred from a JD.
 
-Professional Experience is generated only on an explicit execute request. STAR bullets descend Truist, PointClickCare, Union Bank, Scanet. Education is the locked UNT Master's block. ATS readability and recruiter relevance are design goals, not guarantees of screening results or interviews.
+Professional Experience is generated only on an explicit execute request. STAR bullets use the four recorded employers: Elevance Health, Optum, LatentView, and Reylon Softech. Education is the locked Saint Louis University Master's block. ATS readability and recruiter relevance are design goals, not guarantees of screening results or interviews.

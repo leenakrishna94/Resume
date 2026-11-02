@@ -34,7 +34,7 @@
       {
         "employer": "Elevance Health",
         "title": "Senior Consultant",
-        "start": "June 2026",
+        "start": "February 2026",
         "end": "Present",
         "domain": "General consulting",
         "source": "User-provided professional experience",
@@ -45,7 +45,7 @@
         "employer": "Optum",
         "title": "Senior Software Consultant",
         "start": "October 2024",
-        "end": "June 2026",
+        "end": "February 2026",
         "domain": "General consulting",
         "source": "User-provided professional experience",
         "evidence_status": "User-reported; not independently verified",
@@ -64,18 +64,8 @@
       {
         "employer": "Reylon Softech",
         "title": "Consultant",
-        "start": "December 2019",
+        "start": "June 2018",
         "end": "June 2022",
-        "domain": "General consulting",
-        "source": "User-provided professional experience",
-        "evidence_status": "User-reported; not independently verified",
-        "notes": "Role and dates recorded exactly as provided by the user."
-      },
-      {
-        "employer": "Thrymr Software",
-        "title": "Consultant",
-        "start": "July 2017",
-        "end": "December 2019",
         "domain": "General consulting",
         "source": "User-provided professional experience",
         "evidence_status": "User-reported; not independently verified",
