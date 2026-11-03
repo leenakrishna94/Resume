@@ -469,14 +469,18 @@ Inspect the complete extracted text and rendered pages. Correct clipping, broken
 
 Disclose unavailable generation or inspection steps accurately. Never claim a file or check exists when it does not.
 
-Selective bolding
-
-- Selectively bold important tools, technologies, and technical procedures that closely align with the JD.
-- Bold each distinct tool or procedure only once across the entire resume, choosing its most useful occurrence.
-- Treat acronyms, expanded names, and product aliases as the same term when checking repeated bolding.
-- Keep repeated mentions in regular text. Do not bold entire bullets or every technical term.
-- Apply actual bold formatting in the Word document, without displaying Markdown asterisks.
-- This once-only restriction applies to highlighted tools and procedures; standard heading formatting remains unchanged.
+Selective bolding — emphasize experience and tools
+Use selective bolding to help a recruiter quickly identify the important work I performed and the relevant tools I used.
+In Professional Experience, bold short phrases identifying significant technical work, relevant tools or platforms, and supported deliverables or outcomes that closely align with the JD.
+Highlight meaningful work phrases such as “automated data validation,” “configured network segmentation,” or “implemented access controls,” rather than bolding isolated action verbs or generic words.
+Aim for 1–2 short bold phrases in most substantive experience bullets where useful. Leave lower-priority bullets unbolded. Keep roughly 10–20% of experience text bold; treat this as a guide, not a quota.
+Prioritize the strongest and most relevant bullets under each employer. Do not bold entire sentences or bullets.
+A relevant tool or capability may be bolded under more than one employer when it is central to the work described. Within each employer’s section, normally bold the same tool or capability only once; keep subsequent mentions in regular text.
+Bolding in Professional Summary or Technical Skills does not prevent that term from being bolded in Professional Experience.
+In Professional Summary, use no more than 2–3 short bold phrases. In Technical Skills, bold category labels and keep individual skill items in regular text.
+Choose emphasis based on relevance and substance, not simply because a term appears in the JD. Bolding must not imply that an inferred responsibility is verified.
+Apply actual bold formatting to the selected text in the Word document. Do not display Markdown asterisks.
+Preserve standard bold formatting for the name, section headings, and employer or role headings.
 
 ## 17. Three review passes
 
@@ -515,7 +519,10 @@ Check:
 - Dates and protected facts.
 - Complete Word-document layout.
 
-Verify that experience bullets use strong past-tense wording, describe active contributions, vary naturally in structure, and contain one sentence each. Confirm that important JD-aligned tools and procedures are selectively bolded, with no repeated bolding of the same term or its aliases.
+Verify that experience bullets use strong past-tense wording, describe active contributions, vary naturally in structure, and contain one sentence each.
+Inspect the rendered Word document to confirm that selective bolding is visibly present within Professional Experience and highlights both important work and relevant tools. Check that most substantive bullets contain 1–2 short highlights where useful, without bolding entire bullets or creating excessive visual emphasis. Apply the repetition rules within each employer’s section, rather than enforcing a once-only rule across the entire resume.
+Confirm that the selected text uses actual Word bold formatting and that no Markdown asterisks appear. Correct missing or excessive bolding before delivery.
+
 
 Review and improve your generated content before delivery.
 
