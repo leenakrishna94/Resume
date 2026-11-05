@@ -1,0 +1,40 @@
+Job Title: Senior AI/Python Developer
+Employer: BCforward
+Location: Farmington Hills, MI
+Duration: Contract - 4 months
+Job ID: 411887
+
+Summary:
+Senior AI/Python Developer for a Wealth & Asset Management team. Design, build, and optimize secure, scalable AI-enabled applications and services using Python, Generative AI, prompt engineering, RAG, AI agents, and enterprise AI integration.
+
+Responsibilities:
+- Design and develop production-quality AI applications and services using Python.
+- Build Generative AI capabilities using Amazon Bedrock and LLMs.
+- Design, test, and optimize prompts, including templates, structured outputs, reusable patterns, and evaluation.
+- Develop RAG, intelligent search, embeddings, and vector retrieval solutions.
+- Build AI agents and agent-based workflows, preferably using Strands Agents.
+- Develop reusable AI services and APIs with FastAPI and Pydantic.
+- Integrate AI with structured and unstructured enterprise data sources.
+- Support document processing and extraction using Amazon Textract.
+- Implement vector-based retrieval using PostgreSQL and pgvector.
+- Implement safeguards for output quality, reliability, validation, traceability, and secure data handling.
+- Optimize performance, latency, token usage, and cost.
+- Develop automated testing and evaluation for AI components and pipelines.
+- Collaborate with application, data, DevOps, QA, architecture, cybersecurity, and business teams.
+
+Required skills:
+- 8+ years in Python development, software engineering, or AI/ML engineering.
+- Python, REST APIs, FastAPI, Pydantic, boto3.
+- Amazon Bedrock, LLM integration, Generative AI.
+- Prompt engineering, structured outputs, testing, optimization, and evaluation.
+- RAG, embeddings, semantic search, vector databases, PostgreSQL, pgvector.
+- AI agents and agentic workflows, preferably Strands Agents.
+- Amazon Textract, AWS, Docker, automated testing.
+- AI security, data protection, responsible AI, enterprise governance.
+- Large-enterprise or regulated-environment experience.
+
+Preferred skills:
+- Intelligent search pipelines and evaluation frameworks.
+- Observability and cost monitoring for AI workloads.
+
+Source: Dice job posting supplied by the user.

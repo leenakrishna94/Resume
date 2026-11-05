@@ -1,0 +1,22 @@
+Job Title: Sr Developer
+Employer: Randstad Digital
+Location: Telecommute
+Job ID: 1367220
+
+Summary:
+Senior Software Developer for large-scale IT projects in a fast-paced, collaborative environment. Full-stack development supports UI, backend, API, database, and cloud platforms while contributing to technical decisions.
+
+Responsibilities:
+- Analyze requirements for software programs.
+- Write or modify code for complex programs, components, or applications.
+- Write and perform development testing, including unit testing.
+- Create and maintain documentation.
+- Research complex technical problems and recommend solutions.
+
+Required education and experience:
+- Minimum of 7 years related work experience programming and supporting software applications; or technical training plus 4 years; or a bachelor's degree or higher in an IT-related field plus 4 years.
+
+Skills:
+.NET, AWS, Angular, API, APIs, backend, C#, Cloud, programming, CI/CD Pipelines, database, GitHub, DB2, IT projects, Information Technology, Microservices, Azure DevOps, SQL, software applications, Terraform, unit testing, Claims, Math, technical training.
+
+Source: Dice job posting supplied by the user.

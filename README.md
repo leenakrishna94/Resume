@@ -4,7 +4,7 @@ Create a JD-specific resume PDF for Leena M. This stage contains contact details
 
 ## Start here
 
-Paste a job description into the conversation, or replace the contents of `inputs/job-description.txt` with it. The only new input needed for a generation run is the current JD; saved candidate facts come from `profile.json`.
+Paste a job description into the conversation and save a copy in `inputs/` using a role-based filename. The only new input needed for a generation run is the current JD; saved candidate facts come from `profile.json`.
 
 The assistant will use `resume-rules.md` and `templates/resume-template.md` to draft each in-scope section, then create a PDF when asked to generate. Each run starts from the saved profile and that JD, without using earlier generated resumes.
 
@@ -13,12 +13,12 @@ The assistant will use `resume-rules.md` and `templates/resume-template.md` to d
 - `profile.json`: contact details, user-provided background, and confirmed technical experience.
 - `resume-rules.md`: scope, tailoring rules, Technical Skills selection, factual limits, and PDF checks.
 - `templates/resume-template.md`: contact, Professional Summary, Technical Skills, and Professional Experience structure.
-- `inputs/job-description.txt`: optional place to save the current JD.
+- `inputs/`: submitted job descriptions, saved by role, employer, and date using `role-employer_YYYY-MM-DD.txt`.
 - `AGENTS.md`: instructions for assistants working in this folder.
 
 ## Current status
 
-Generation is currently assistant-guided using these profile, template, and workflow files. PDFs are saved under `output/pdf/YYYY-MM-DD/`. For each new run, supply the current JD and ask the assistant to generate the resume.
+Generation is currently assistant-guided using these profile, template, workflow files, and the selected JD from `inputs/`. PDFs are saved under `output/pdf/YYYY-MM-DD/`; editable Word resumes are saved under `output/docx/YYYY-MM-DD/`. Each new JD should be stored in `inputs/` before its matching resume is generated.
 
 Summaries follow the quality standard in `resume-rules.md`: one paragraph, normally 90-120 words, prioritizing supported candidate strengths relevant to the JD's actual professional function.
 

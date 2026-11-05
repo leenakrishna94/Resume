@@ -1,0 +1,27 @@
+Job Title: Sr. IT Governance Analyst for AI
+Employer: Randstad Digital
+Location: Durham, North Carolina
+
+Summary:
+Resource engaged with the AI COE team to collaborate on AI guidelines, standards, and internal development. Provides subject-matter expertise and counsel to leaders and business areas on IT controls, audits, governance, and risk management.
+
+Responsibilities:
+- Improve, document, and implement IT software development lifecycle processes and controls.
+- Oversee and coordinate the IT audit process with business areas and external firms.
+- Ensure effective audit communication and management.
+- Identify systemic weaknesses in IT controls and guide resolution actions.
+- Escalate issues as needed to obtain resources for remediation.
+- Create, implement, and manage processes, policies, procedures, standards, and controls for IT risk management.
+- Lead highly complex IT process-change initiatives with critical dependencies and multi-division impact.
+- Manage and prioritize the overall portfolio of change initiatives.
+- Collect inputs to define future change initiatives.
+
+Required qualifications:
+- 5+ years of governance, risk, and compliance experience.
+- At least one year performing these functions for AI.
+- NIST experience preferred.
+
+Skills:
+AI, IT controls, IT software development, effective communication, audit process, audits, governance, IT risk management, process improvement, risk management.
+
+Source: Dice job posting supplied by the user.
