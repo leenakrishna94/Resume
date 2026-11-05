@@ -11,7 +11,7 @@ from docx.oxml.ns import qn
 
 
 ROOT = Path(__file__).parent
-OUT = ROOT / "output" / "docx" / "2026-11-05"
+OUT = ROOT / "Resumes" / "docx" / "2026-11-05"
 OUT.mkdir(parents=True, exist_ok=True)
 DOCX = OUT / "Leena_M_Senior_AI_Python_Developer_Resume.docx"
 

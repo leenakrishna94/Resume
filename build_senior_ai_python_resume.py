@@ -9,7 +9,7 @@ from reportlab.platypus import HRFlowable, KeepTogether, Paragraph, SimpleDocTem
 
 
 ROOT = Path(__file__).parent
-OUT = ROOT / "output" / "pdf" / "2026-11-05"
+OUT = ROOT / "Resumes" / "pdf" / "2026-11-05"
 OUT.mkdir(parents=True, exist_ok=True)
 PDF = OUT / "Leena_M_Senior_AI_Python_Developer_Resume.pdf"
 

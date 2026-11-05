@@ -18,7 +18,7 @@ The assistant will use `resume-rules.md` and `templates/resume-template.md` to d
 
 ## Current status
 
-Generation is currently assistant-guided using these profile, template, workflow files, and the selected JD from `inputs/`. PDFs are saved under `output/pdf/YYYY-MM-DD/`; editable Word resumes are saved under `output/docx/YYYY-MM-DD/`. Each new JD should be stored in `inputs/` before its matching resume is generated.
+Generation is currently assistant-guided using these profile, template, workflow files, and the selected JD from `inputs/`. Resumes are saved under `Resumes/pdf/YYYY-MM-DD/` or `Resumes/docx/YYYY-MM-DD/`. Each new JD should be stored in `inputs/` before its matching resume is generated.
 
 Summaries follow the quality standard in `resume-rules.md`: one paragraph, normally 90-120 words, prioritizing supported candidate strengths relevant to the JD's actual professional function.
 

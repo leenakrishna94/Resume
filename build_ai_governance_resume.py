@@ -7,7 +7,7 @@ from reportlab.lib.units import inch
 from reportlab.platypus import HRFlowable, KeepTogether, Paragraph, SimpleDocTemplate
 
 ROOT = Path(__file__).parent
-OUT = ROOT / "output" / "pdf" / "2026-11-05"
+OUT = ROOT / "Resumes" / "pdf" / "2026-11-05"
 OUT.mkdir(parents=True, exist_ok=True)
 PDF = OUT / "Leena_M_Sr_IT_Governance_Analyst_AI_Resume.pdf"
 
